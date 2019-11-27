@@ -218,6 +218,7 @@ export default class Main {
       return;
 
     this.bg.update()
+    
 
     databus.bullets
            .concat(databus.enemys)
